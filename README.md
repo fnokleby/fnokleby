@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fnokleby
 - 👀 I’m interested in coding, music, sports, and a lot more.
 - 🌱 I’m currently learning what i feel like :)
-- 📫 How to reach me: e-mail or twitter.
+- 📫 How to reach me: don't.
 
 <!---
 fnokleby/fnokleby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
